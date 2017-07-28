@@ -1,0 +1,9 @@
+c:\users\compiler\documents\visual studio 2017\Projects\VueJsToNetCore\VueJsToNetCore\bin\Debug\netcoreapp1.1\VueJsToNetCore.deps.json
+c:\users\compiler\documents\visual studio 2017\Projects\VueJsToNetCore\VueJsToNetCore\bin\Debug\netcoreapp1.1\VueJsToNetCore.runtimeconfig.json
+c:\users\compiler\documents\visual studio 2017\Projects\VueJsToNetCore\VueJsToNetCore\bin\Debug\netcoreapp1.1\VueJsToNetCore.runtimeconfig.dev.json
+c:\users\compiler\documents\visual studio 2017\Projects\VueJsToNetCore\VueJsToNetCore\bin\Debug\netcoreapp1.1\VueJsToNetCore.dll
+c:\users\compiler\documents\visual studio 2017\Projects\VueJsToNetCore\VueJsToNetCore\bin\Debug\netcoreapp1.1\VueJsToNetCore.pdb
+c:\users\compiler\documents\visual studio 2017\Projects\VueJsToNetCore\VueJsToNetCore\obj\Debug\netcoreapp1.1\VueJsToNetCore.csprojResolveAssemblyReference.cache
+c:\users\compiler\documents\visual studio 2017\Projects\VueJsToNetCore\VueJsToNetCore\obj\Debug\netcoreapp1.1\VueJsToNetCore.AssemblyInfo.cs
+c:\users\compiler\documents\visual studio 2017\Projects\VueJsToNetCore\VueJsToNetCore\obj\Debug\netcoreapp1.1\VueJsToNetCore.dll
+c:\users\compiler\documents\visual studio 2017\Projects\VueJsToNetCore\VueJsToNetCore\obj\Debug\netcoreapp1.1\VueJsToNetCore.pdb

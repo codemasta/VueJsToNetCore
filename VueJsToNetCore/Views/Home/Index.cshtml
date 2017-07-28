@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Vue To .NET CORE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+
+<body>
+
+<div id="app">
+   
+    <input name="firstName" v-model="firstName" placeholder="First Name"/>
+    <br/>
+    <input name="lastName" v-model="lastName" placeholder="Last Name"/>
+    <br/>
+    <button v-on:click="sendToServer">Submit</button>
+
+</div>
+</body>
+</html>
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="/app/app.js"></script>
+   
