@@ -16,5 +16,11 @@ namespace VueJsToNetCore.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Test()
+        {
+           return View(); // added test controller    
+        }
     }
 }
